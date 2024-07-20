@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Wazablog - Alexandre Martin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Wazablog - Alexandre Martin</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 20 Jul 2024 14:24:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction - Yet another blog</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Sat, 20 Jul 2024 14:24:41 +0200</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>Ceci est ma 3e tentative de création de blog.
+Si vous êtes nouveaux ici et voulez en savoir plus sur moi rdv ici et ici. Vous pouvez également me suivre sur Mastodon.
+J&amp;rsquo;ai souvent envie de m&amp;rsquo;étendre sur certains sujets et n&amp;rsquo;ai pas vraiment de plateforme pour le faire. J&amp;rsquo;avais un blog WordPress il y&amp;rsquo;a longtemps puis plus récemment un write freely (le truc de blog fédérés). Le soucis c&amp;rsquo;est que le coût et le temps que prenne ces outils a être maintenus ne vaut pas la quantité (et la qualité, mais je vous laisse juge de ce facteur) de ce que j&amp;rsquo;ai a dire.</description>
+    </item>
+  </channel>
+</rss>

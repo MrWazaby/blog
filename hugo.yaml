@@ -1,0 +1,85 @@
+baseURL: https://wazablog.fr/
+languageCode: fr-fr
+title: Wazablog - Alexandre Martin
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: website
+      name: alexandre-martin.fr
+      url: https://alexandre-martin.fr
+      weight: 30
+    - identifier: masotodon
+      name: mastodon
+      url: https://h4.io/@wazaby
+      weight: 30
+
+params:
+  ShowShareButtons: false
+
+  socialIcons:
+    - name: "mastodon"
+      url: "https://h4.io/@wazaby"
+    - name: "cv"
+      url: "https://alexandre-martin.fr/"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/alexandre-martin-58429bb5/"
+    - name: "github"
+      url: "https://github.com/mrwazaby"
+
+  homeInfoParams:
+    Title: "C'est le blog"
+    Content: >
+      👋 Bienvenue sur mon blog. Le lieu des digressions plus longues que sur Mastodon.

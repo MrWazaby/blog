@@ -20,3 +20,6 @@ Pour spolier un peu, j’aimerais déjà publier les articles suivants ici :
 - Un article sur le Starlite mk V de Starlabs que je vais recevoir prochainement.
 - Un article sur les outils que j’ai/vais mettre en place pour H4.
 - Un article sur la mise en place à venir d’une instance Piefed pour la commu H4
+
+*Commenter cet article [sur Mastodon](
+https://h4.io/@wazaby/112824113078063171)*

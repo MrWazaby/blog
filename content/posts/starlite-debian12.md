@@ -8,7 +8,7 @@ author: "Alexandre"
 
 Hello everyone, 
 
-A little time ago, I received my [Starlite mv V](https://fr.starlabs.systems/pages/starlite) from Starlabs after a quiet long time.
+A little time ago, I received my [Starlite mk V](https://fr.starlabs.systems/pages/starlite) from Starlabs after a quiet long time.
 
 Here is a technical documentation on how to do the full setup of the **Debian 12** and **Gnome** (wayland) install to have a fully working (in my opinion) hybrid pc.
 

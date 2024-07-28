@@ -150,4 +150,4 @@ Just a small thing I have noticed. If you let the microphone at 100% it will be 
 
 That's it. I will keep this article updated if I make another config change, but I'm really happy with this configuration. The Starlite is working as I expected. I hope some information here can be of any help to you. I will do a full review (in French) after a few weeks of daily usage.
 
-Comment this article on Mastodon.
+[Comment this article on Mastodon.](https://h4.io/@wazaby/112864930116715898)

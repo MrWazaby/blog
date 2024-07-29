@@ -102,6 +102,13 @@ You can also check out this:
 
 Updating the firmware when newer versions are released may improve many hardware-related things on this device.
 
+If after start you get an UEFI shell instead of your Grub menu you can boot into Debian using something like [super grub 2 iso](https://www.supergrubdisk.org/super-grub2-disk/), then run:
+```bash
+sudo grub-install
+sudo update-grub
+sudo reboot
+```
+
 ## Fix the autorotate on the screen 
 
 The kernel packaged in Debian 12 is not really bleeding edge, so you need to tweak a little the config to fix the screen autortate. I found this on the [Starlab's support page](https://support.starlabs.systems/kb/guides/starlite-fixing-rotation-on-older-kernel):

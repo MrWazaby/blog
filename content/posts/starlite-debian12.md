@@ -16,7 +16,7 @@ Here is a technical documentation on how to do the full setup of the **Debian 12
 
 The Debian 12 installation is quite simple and works out of the box, I just used my [ventoy](https://www.ventoy.net/en/index.html) key (with a USB C to USB adapter) with the [Debian 12 iso](https://www.debian.org/download) on it. I followed the installation process as I would on any machine.
 
-> **Disclaimer:** On my computer, I do not set the root password, so the installer installs sudo and adds my user to the sudo group. So some commands in the flowing article will use sudo, don't be surprised.
+> **Disclaimer:** On my computer, I do not set the root password, so the installer installs sudo and adds my user to the sudo group. So some commands in the following article will use sudo, don't be surprised.
 
 ## OSK-SDL and Plymouth Install
 
@@ -63,7 +63,7 @@ You can then edit your grub config file (/etc/default/grub) and update the GRUB_
 
 Then run:
 ```bash
-sudo grub-update
+sudo update-grub
 ```
 
 And reboot your computer.

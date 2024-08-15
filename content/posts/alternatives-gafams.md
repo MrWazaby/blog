@@ -8,15 +8,15 @@ author: "Alexandre"
 
 En mars 2023, j'ai publié une [suite de toots](https://h4.io/deck/@wazaby/110071386469621956) afin de partager les **alternatives libres/opensource ou respectueuse de la vie privée** que j'utilise au quotidien.
 
-J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [collaborative](#h_145004896680161723733218322)) dans cet article de blog. Comme lors de mes toots je vais classer ces différents outils par catégories.
+J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [collaborative](#contributeurs)) dans cet article de blog. Comme lors de mes toots je vais classer ces différents outils par catégories.
 
-- [Système d'exploitation](#h_796141402671291723733155441)  
-- [Navigateur internet](#h_38471414672421723733163470)  
-- [Productivité](#h_572533717673601723733170882)  
-- [Réseaux sociaux/messageries](#h_774783904674661723733180745)  
-- [Multimédia](#h_539532930675941723733188385)  
-- [Transport](#h_243284954677051723733195719)  
-- [Alternatives diverses](#h_408208500679161723733208912)
+- [Système d'exploitation](#système-dexploitation)  
+- [Navigateur internet](#navigateur-internet)  
+- [Productivité](#productivité)  
+- [Réseaux sociaux/messageries](#réseaux-sociauxmessageries-instantanées)  
+- [Multimédia](#multimédias)  
+- [Transport](#transport)  
+- [Alternatives diverses](#divers)
 
 &nbsp;
 
@@ -86,8 +86,9 @@ J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [colla
 
 ## Contributeurs :
 
-Alexandre M.
+[Alexandre M](https://h4.io/@wazaby)
 
-Si vous souhaitez contribuer à cette liste, n'hésitez pas à faire une PR sur ce fichier (et ajoutez-vous à la liste des contributeurs si vous le voulez). Si vous ne savez pas comment faire, contactez-moi sur Mastodon !
+Si vous souhaitez contribuer à cette liste, n'hésitez pas à faire une PR sur [ce fichier](https://github.com/MrWazaby/blog/blob/main/content/posts/alternatives-gafams.md) (et ajoutez-vous à la liste des contributeurs si vous le voulez). Si vous ne savez pas comment faire, contactez-moi sur Mastodon !
+
 
 *Commenter cet article [sur Mastodon](https://h4.io/@wazaby/112824113078063171)*

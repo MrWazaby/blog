@@ -1,5 +1,5 @@
 ---
-title: 'Alternative aux GAFAMs'
+title: 'Alternatives aux GAFAMs'
 date: 2024-08-15T14:18:08+02:00
 draft: false
 tags: ["doc", "gafams", "outils"]
@@ -8,7 +8,7 @@ author: "Alexandre"
 
 En mars 2023, j'ai publié une [suite de toots](https://h4.io/deck/@wazaby/110071386469621956) afin de partager les **alternatives libres/opensource ou respectueuse de la vie privée** que j'utilise au quotidien.
 
-J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [collaborative](#contributeurs)) dans cet article de blog. Comme lors de mes toots je vais classer ces différents outils par catégories.
+J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [collaborative](#contributeurs-)) dans cet article de blog. Comme lors de mes toots je vais classer ces différents outils par catégories.
 
 - [Système d'exploitation](#système-dexploitation)  
 - [Navigateur internet](#navigateur-internet)  
@@ -74,7 +74,7 @@ J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [colla
 
 | Type | GAFAM | Alternative | Commentaire |
 | --- | --- | --- | --- |
-| Cartes | GoogleMaps, Waze | 🌍 [OpenStreetMap](https://www.openstreetmap.org/), 📱[OrganicMap](https://organicmaps.app/fr/) | Si vous voulez contribuer de façon ludique à OpenStreetMap je vous recommande : StreetComplete |
+| Cartes | GoogleMaps, Waze | 🌍 [OpenStreetMap](https://www.openstreetmap.org/), 📱[OrganicMap](https://organicmaps.app/fr/) | Si vous voulez contribuer de façon ludique à OpenStreetMap je vous recommande : [StreetComplete](https://streetcomplete.app/) |
 | Transports en commun | CityMapper... | 📱[Transportr](https://transportr.app/) |     |
 
 ## Divers

@@ -91,4 +91,4 @@ J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [colla
 Si vous souhaitez contribuer à cette liste, n'hésitez pas à faire une PR sur [ce fichier](https://github.com/MrWazaby/blog/blob/main/content/posts/alternatives-gafams.md) (et ajoutez-vous à la liste des contributeurs si vous le voulez). Si vous ne savez pas comment faire, contactez-moi sur Mastodon !
 
 
-*Commenter cet article [sur Mastodon](https://h4.io/@wazaby/112824113078063171)*
+*Commenter cet article [sur Mastodon](https://h4.io/@wazaby/112966968051515235)*

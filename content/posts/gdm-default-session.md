@@ -8,7 +8,7 @@ author: "Alexandre"
 
 Some context: I [own a Starlite V](https://wazablog.fr/posts/starlite-debian12/), and I use it as a hybrid PC with Gnome and [Regolith Desktop](https://regolith-desktop.com/). When I work at my desk, I use Regolith, then I turn off the computer and go away from keyboard. Then on the next use, I am on my couch and I boot in tablet mode, then GDM3 by default will send me back to the last session used (Regolith here), and... Bam! I'm stuck in a keyboard-oriented WM without a keyboard.
 
-So, I don't trust myself to think about the session switch at each boot, so I started digging on how to always set Gnome as the default choice on GDM3. This is not as easy as it may seem... I found [this article](https://brokkr.net/2016/10/27/setting-default-user-session-in-gdm-default-latest/), but I needed some adaptation to make it work. Here is how to do it in Debian 12 with Gnome and GDM3. (If you don't want to read the details and just get it done: [TL;DR](#TLDR))
+So, I don't trust myself to think about the session switch at each boot, so I started digging on how to always set Gnome as the default choice on GDM3. This is not as easy as it may seem... I found [this article](https://brokkr.net/2016/10/27/setting-default-user-session-in-gdm-default-latest/), but I needed some adaptation to make it work. Here is how to do it in Debian 12 with Gnome and GDM3. (If you don't want to read the details and just get it done: [TL;DR](#tldr))
 
 ## How GDM is fetching the last-used session
 
@@ -39,4 +39,4 @@ You then need to log out and log in once for it to start working. If you want it
 3. Log out/login
 4. Profit
 
-*Comment this article [on Mastodon](https://h4.io/@wazaby/)*
+*Comment this article [on Mastodon](https://h4.io/@wazaby/112990097400063492)*

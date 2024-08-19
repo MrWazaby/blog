@@ -1,5 +1,5 @@
 ---
-title: ''Set GDM Default session (not the last used)"
+title: "Set GDM Default session (not the last used)"
 date: 2024-08-19T20:18:08+02:00
 draft: false
 tags: ["doc", "gdm", "regolith", "starlite", "gnome"]

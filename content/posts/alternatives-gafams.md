@@ -28,12 +28,15 @@ J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [colla
 
 &nbsp;
 
+Edit : Note apportée dans les commentaires par [CM63](https://piaille.fr/@CM63):
+> La plupart du temps les GAFAM sont mono-instance alors que les alternatives sont souvent multi-instances. C'est le cas de Mastodon, de Nextcloud...
+
 ## Système d'exploitation
 
 | Type | GAFAM | Alternative | Commentaire |
 | --- | --- | --- | --- |
 | OS PC | Windows/MacOS | 💻 [Debian](https://www.debian.org/), [Ubuntu](https://ubuntu.com/), [Fedora](https://fedoraproject.org/fr/), [Archlinux](https://archlinux.org/)... | J'utilise de mon coté Debian comme OS principal |
-| OS Mobile | Android/iOS | 📱 [GrapheneOS](https://grapheneos.org/), [LineageOS](https://lineageos.org/) | Si la sécurité est une de vos priorités, je vous recommande GrapheneOS |
+| OS Mobile | Android/iOS | 📱 [GrapheneOS](https://grapheneos.org/), [LineageOS](https://lineageos.org/), [e/os/](https://e.foundation/e-os/) | Si la sécurité est une de vos priorités, je vous recommande GrapheneOS |
 
 ## Navigateur internet
 
@@ -46,8 +49,9 @@ J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [colla
 
 | Type | GAFAM | Alternative | Commentaire |
 | --- | --- | --- | --- |
-| Email | Gmail, Yahoo mail... | 🌍 [Proton Mail](https://proton.me/) |     |
-| Stockage de documents | Google Drive, OneDrive, Dropbox... | 🌍 [Proton Drive](https://proton.me/), [Nextcloud](https://nextcloud.com/) | Si vous ne voulez pas héberger Nextcloud vous même je vous recommande [cette page](https://nextcloud.com/sign-up/) |
+| Service Email | Gmail, Yahoo mail... | 🌍 [Proton Mail](https://proton.me/) |     |
+| Client Email | Outlook, Apple Mail... | 💻 [ThunderBird](https://www.thunderbird.net/fr/),📱[k9 Mail](https://k9mail.app/) |  |
+| Stockage de documents | Google Drive, OneDrive, Dropbox... | 🌍 [Proton Drive](https://proton.me/), [Nextcloud](https://nextcloud.com/) | Si vous ne voulez pas héberger Nextcloud vous même je vous recommande [cette page](https://nextcloud.com/sign-up/), vous pouvez également en trouver chez [Zaclys](https://www.zaclys.com/), [Murena](https://murena.com/fr/workspace/) ou encore [Infomaniak](https://www.infomaniak.com/fr/creer-un-site/cms/hebergement-nextcloud) |
 | Notes | OneNote, Notion... | 💻📱 [Joplin](https://joplinapp.org/) | Combinable avec Nextcloud pour la synchronisation |
 | Bureautique | Google Doc, Suite Office... | 💻 [LibreOffice](https://fr.libreoffice.org/) |     |
 | Gestion de mots de passes/2FA | Google Authenticator, LastPassword | 🌍 [Proton Pass](https://proton.me/), 💻 [KeepassXC](https://keepassxc.org/), 📱[Aegis Authenticator](https://getaegis.app/) |     |
@@ -86,7 +90,8 @@ J'ai décidé de mettre à jour cette liste (et de la maintenir de façon [colla
 
 ## Contributeurs :
 
-[Alexandre M](https://h4.io/@wazaby)
+[Alexandre M](https://h4.io/@wazaby)  
+[CM63](https://piaille.fr/@CM63)
 
 Si vous souhaitez contribuer à cette liste, n'hésitez pas à faire une PR sur [ce fichier](https://github.com/MrWazaby/blog/blob/main/content/posts/alternatives-gafams.md) (et ajoutez-vous à la liste des contributeurs si vous le voulez). Si vous ne savez pas comment faire, contactez-moi sur Mastodon !
 

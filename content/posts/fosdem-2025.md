@@ -64,4 +64,4 @@ This weekend I was at FOSEDM and I discovered some awesome projects and in this 
 <https://codeberg.org/eduVPN/proxyguard>
 
 
-*Comment this article [on Mastodon](https://h4.io/@wazaby/)*
+*Comment this article [on Mastodon](https://h4.io/@wazaby/113961295464618850)*

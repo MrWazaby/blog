@@ -86,6 +86,11 @@ sudo rfkill unblock bluetooth
 
 ## Update the firmware 
 
+Important notice: this section seems to cause issues to some users in the comments:
+> However, the part regarding flashrom caused me some troubles:
+
+Starlabs currently ships their Starlite MkV with Coreboot 24.11. But the binary is not yet available on their Git repository (I assume they have their reasons). I suggest that you mention using fwupd before considering flashrom. It would prevent accidental downgrades like the one I did (which caused battery monitoring issues).
+
 At the time I received my Starlite, I didn't have the latest firmware installed. You can install the latest firmware by running the following commands :
 ```bash
 sudo apt install flashrom

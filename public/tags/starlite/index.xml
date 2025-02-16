@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starlite on Wazablog - Alexandre Martin</title>
+    <link>https://wazablog.fr/tags/starlite/</link>
+    <description>Recent content in Starlite on Wazablog - Alexandre Martin</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 19 Aug 2024 20:18:08 +0200</lastBuildDate>
+    <atom:link href="https://wazablog.fr/tags/starlite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set GDM Default session (not the last used)</title>
+      <link>https://wazablog.fr/posts/gdm-default-session/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/gdm-default-session/</guid>
+      <description>&lt;p&gt;Some context: I &lt;a href=&#34;https://wazablog.fr/posts/starlite-debian12/&#34;&gt;own a Starlite V&lt;/a&gt;, and I use it as a hybrid PC with Gnome and &lt;a href=&#34;https://regolith-desktop.com/&#34;&gt;Regolith Desktop&lt;/a&gt;. When I work at my desk, I use Regolith, then I turn off the computer and go away from keyboard. Then on the next use, I am on my couch and I boot in tablet mode, then GDM3 by default will send me back to the last session used (Regolith here), and&amp;hellip; Bam! I&amp;rsquo;m stuck in a keyboard-oriented WM without a keyboard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setup Debian 12 on the Starlabs Starlite mk V</title>
+      <link>https://wazablog.fr/posts/starlite-debian12/</link>
+      <pubDate>Sun, 28 Jul 2024 17:50:41 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/starlite-debian12/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;&#xA;&lt;p&gt;A little time ago, I received my &lt;a href=&#34;https://fr.starlabs.systems/pages/starlite&#34;&gt;Starlite mk V&lt;/a&gt; from Starlabs after a quiet long time.&lt;/p&gt;&#xA;&lt;p&gt;Here is a technical documentation on how to do the full setup of the &lt;strong&gt;Debian 12&lt;/strong&gt; and &lt;strong&gt;Gnome&lt;/strong&gt; (wayland) install to have a fully working (in my opinion) hybrid pc.&lt;/p&gt;&#xA;&lt;h2 id=&#34;os-install&#34;&gt;OS Install&lt;/h2&gt;&#xA;&lt;p&gt;The Debian 12 installation is quite simple and works out of the box, I just used my &lt;a href=&#34;https://www.ventoy.net/en/index.html&#34;&gt;ventoy&lt;/a&gt; key (with a USB C to USB adapter) with the &lt;a href=&#34;https://www.debian.org/download&#34;&gt;Debian 12 iso&lt;/a&gt; on it. I followed the installation process as I would on any machine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

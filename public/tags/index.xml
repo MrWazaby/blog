@@ -1,18 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wazablog - Alexandre Martin</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://wazablog.fr/tags/</link>
     <description>Recent content in Tags on Wazablog - Alexandre Martin</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 20 Jul 2024 14:24:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 21:57:08 +0200</lastBuildDate>
+    <atom:link href="https://wazablog.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fosdem</title>
+      <link>https://wazablog.fr/tags/fosdem/</link>
+      <pubDate>Thu, 06 Feb 2025 21:57:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/fosdem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opensource</title>
+      <link>https://wazablog.fr/tags/opensource/</link>
+      <pubDate>Thu, 06 Feb 2025 21:57:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/opensource/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://wazablog.fr/tags/tools/</link>
+      <pubDate>Thu, 06 Feb 2025 21:57:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Doc</title>
+      <link>https://wazablog.fr/tags/doc/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/doc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gdm</title>
+      <link>https://wazablog.fr/tags/gdm/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/gdm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gnome</title>
+      <link>https://wazablog.fr/tags/gnome/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/gnome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regolith</title>
+      <link>https://wazablog.fr/tags/regolith/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/regolith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starlite</title>
+      <link>https://wazablog.fr/tags/starlite/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/starlite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gafams</title>
+      <link>https://wazablog.fr/tags/gafams/</link>
+      <pubDate>Thu, 15 Aug 2024 14:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/gafams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outils</title>
+      <link>https://wazablog.fr/tags/outils/</link>
+      <pubDate>Thu, 15 Aug 2024 14:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/outils/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debian</title>
+      <link>https://wazablog.fr/tags/debian/</link>
+      <pubDate>Sun, 28 Jul 2024 17:50:41 +0200</pubDate>
+      <guid>https://wazablog.fr/tags/debian/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Perso</title>
-      <link>http://localhost:1313/tags/perso/</link>
+      <link>https://wazablog.fr/tags/perso/</link>
       <pubDate>Sat, 20 Jul 2024 14:24:41 +0200</pubDate>
-      <guid>http://localhost:1313/tags/perso/</guid>
+      <guid>https://wazablog.fr/tags/perso/</guid>
       <description></description>
     </item>
   </channel>

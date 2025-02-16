@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Wazablog - Alexandre Martin</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://wazablog.fr/posts/</link>
     <description>Recent content in Posts on Wazablog - Alexandre Martin</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 20 Jul 2024 14:24:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 21:57:08 +0200</lastBuildDate>
+    <atom:link href="https://wazablog.fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My findings at FOSEM 2025</title>
+      <link>https://wazablog.fr/posts/fosdem-2025/</link>
+      <pubDate>Thu, 06 Feb 2025 21:57:08 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/fosdem-2025/</guid>
+      <description>&lt;p&gt;This weekend I was at FOSEDM and I discovered some awesome projects and in this article I&amp;rsquo;m going to share them with you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;documentation&#34;&gt;Documentation&lt;/h2&gt;&#xA;&lt;h3 id=&#34;vale&#34;&gt;Vale&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;A markup-aware linter for prose built with speed and extensibility in mind.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/errata-ai/vale&#34;&gt;https://github.com/errata-ai/vale&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;doc-detective&#34;&gt;Doc-detective&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Doc Detective is an open-source documentation testing framework that makes it easy to keep your docs accurate and up-to-date.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/doc-detective/doc-detective&#34;&gt;https://github.com/doc-detective/doc-detective&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;mgmt-config&#34;&gt;mgmt-config&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Next generation distributed, event-driven, parallel config management!&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/purpleidea/mgmt&#34;&gt;https://github.com/purpleidea/mgmt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Set GDM Default session (not the last used)</title>
+      <link>https://wazablog.fr/posts/gdm-default-session/</link>
+      <pubDate>Mon, 19 Aug 2024 20:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/gdm-default-session/</guid>
+      <description>&lt;p&gt;Some context: I &lt;a href=&#34;https://wazablog.fr/posts/starlite-debian12/&#34;&gt;own a Starlite V&lt;/a&gt;, and I use it as a hybrid PC with Gnome and &lt;a href=&#34;https://regolith-desktop.com/&#34;&gt;Regolith Desktop&lt;/a&gt;. When I work at my desk, I use Regolith, then I turn off the computer and go away from keyboard. Then on the next use, I am on my couch and I boot in tablet mode, then GDM3 by default will send me back to the last session used (Regolith here), and&amp;hellip; Bam! I&amp;rsquo;m stuck in a keyboard-oriented WM without a keyboard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alternatives aux GAFAMs</title>
+      <link>https://wazablog.fr/posts/alternatives-gafams/</link>
+      <pubDate>Thu, 15 Aug 2024 14:18:08 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/alternatives-gafams/</guid>
+      <description>&lt;p&gt;En mars 2023, j&amp;rsquo;ai publié une &lt;a href=&#34;https://h4.io/deck/@wazaby/110071386469621956&#34;&gt;suite de toots&lt;/a&gt; afin de partager les &lt;strong&gt;alternatives libres/opensource ou respectueuse de la vie privée&lt;/strong&gt; que j&amp;rsquo;utilise au quotidien.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai décidé de mettre à jour cette liste (et de la maintenir de façon &lt;a href=&#34;#contributeurs-&#34;&gt;collaborative&lt;/a&gt;) dans cet article de blog. Comme lors de mes toots je vais classer ces différents outils par catégories.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#syst%C3%A8me-dexploitation&#34;&gt;Système d&amp;rsquo;exploitation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#navigateur-internet&#34;&gt;Navigateur internet&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#productivit%C3%A9&#34;&gt;Productivité&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#r%C3%A9seaux-sociauxmessageries-instantan%C3%A9es&#34;&gt;Réseaux sociaux/messageries&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#multim%C3%A9dias&#34;&gt;Multimédia&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#transport&#34;&gt;Transport&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#divers&#34;&gt;Alternatives diverses&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Légende des symboles utilisés :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setup Debian 12 on the Starlabs Starlite mk V</title>
+      <link>https://wazablog.fr/posts/starlite-debian12/</link>
+      <pubDate>Sun, 28 Jul 2024 17:50:41 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/starlite-debian12/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;&#xA;&lt;p&gt;A little time ago, I received my &lt;a href=&#34;https://fr.starlabs.systems/pages/starlite&#34;&gt;Starlite mk V&lt;/a&gt; from Starlabs after a quiet long time.&lt;/p&gt;&#xA;&lt;p&gt;Here is a technical documentation on how to do the full setup of the &lt;strong&gt;Debian 12&lt;/strong&gt; and &lt;strong&gt;Gnome&lt;/strong&gt; (wayland) install to have a fully working (in my opinion) hybrid pc.&lt;/p&gt;&#xA;&lt;h2 id=&#34;os-install&#34;&gt;OS Install&lt;/h2&gt;&#xA;&lt;p&gt;The Debian 12 installation is quite simple and works out of the box, I just used my &lt;a href=&#34;https://www.ventoy.net/en/index.html&#34;&gt;ventoy&lt;/a&gt; key (with a USB C to USB adapter) with the &lt;a href=&#34;https://www.debian.org/download&#34;&gt;Debian 12 iso&lt;/a&gt; on it. I followed the installation process as I would on any machine.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction - Yet another blog</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://wazablog.fr/posts/introduction/</link>
       <pubDate>Sat, 20 Jul 2024 14:24:41 +0200</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>Ceci est ma 3e tentative de création de blog.
-Si vous êtes nouveaux ici et voulez en savoir plus sur moi rdv ici et ici. Vous pouvez également me suivre sur Mastodon.
-J&amp;rsquo;ai souvent envie de m&amp;rsquo;étendre sur certains sujets et n&amp;rsquo;ai pas vraiment de plateforme pour le faire. J&amp;rsquo;avais un blog WordPress il y&amp;rsquo;a longtemps puis plus récemment un write freely (le truc de blog fédérés). Le soucis c&amp;rsquo;est que le coût et le temps que prenne ces outils a être maintenus ne vaut pas la quantité (et la qualité, mais je vous laisse juge de ce facteur) de ce que j&amp;rsquo;ai a dire.</description>
+      <guid>https://wazablog.fr/posts/introduction/</guid>
+      <description>&lt;p&gt;Ceci est ma 3ᵉ tentative de création de blog.&lt;/p&gt;&#xA;&lt;p&gt;Si vous êtes nouveau ici et voulez en savoir plus sur moi, rendez-vous &lt;a href=&#34;https://alexandre-martin.fr&#34;&gt;ici&lt;/a&gt;. Vous pouvez également me suivre sur &lt;a href=&#34;https://h4.io/@wazaby&#34;&gt;Mastodon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;J’ai souvent envie de m’étendre sur certains sujets et n’ai pas vraiment de plateforme pour le faire. J’avais un blog WordPress il y a longtemps, puis plus récemment un write freely (le truc des blogs fédérés). Le souci, c’est que le coût et le temps que prennent ces outils à être maintenus ne vaut pas la quantité &lt;em&gt;(et la qualité, mais je vous laisse juge de ce facteur)&lt;/em&gt; de ce que j’ai à dire.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

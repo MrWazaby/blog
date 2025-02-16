@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debian on Wazablog - Alexandre Martin</title>
+    <link>https://wazablog.fr/tags/debian/</link>
+    <description>Recent content in Debian on Wazablog - Alexandre Martin</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 28 Jul 2024 17:50:41 +0200</lastBuildDate>
+    <atom:link href="https://wazablog.fr/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup Debian 12 on the Starlabs Starlite mk V</title>
+      <link>https://wazablog.fr/posts/starlite-debian12/</link>
+      <pubDate>Sun, 28 Jul 2024 17:50:41 +0200</pubDate>
+      <guid>https://wazablog.fr/posts/starlite-debian12/</guid>
+      <description>&lt;p&gt;Hello everyone,&lt;/p&gt;&#xA;&lt;p&gt;A little time ago, I received my &lt;a href=&#34;https://fr.starlabs.systems/pages/starlite&#34;&gt;Starlite mk V&lt;/a&gt; from Starlabs after a quiet long time.&lt;/p&gt;&#xA;&lt;p&gt;Here is a technical documentation on how to do the full setup of the &lt;strong&gt;Debian 12&lt;/strong&gt; and &lt;strong&gt;Gnome&lt;/strong&gt; (wayland) install to have a fully working (in my opinion) hybrid pc.&lt;/p&gt;&#xA;&lt;h2 id=&#34;os-install&#34;&gt;OS Install&lt;/h2&gt;&#xA;&lt;p&gt;The Debian 12 installation is quite simple and works out of the box, I just used my &lt;a href=&#34;https://www.ventoy.net/en/index.html&#34;&gt;ventoy&lt;/a&gt; key (with a USB C to USB adapter) with the &lt;a href=&#34;https://www.debian.org/download&#34;&gt;Debian 12 iso&lt;/a&gt; on it. I followed the installation process as I would on any machine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

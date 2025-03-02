@@ -8,18 +8,16 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: Wazablog
+  description: "Wazaby's blog"
+  keywords: [Blog, Portfolio, PaperMod, wazaby, wazablog, Alexandre Martin]
+  author: Alexandre Martin
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -65,6 +63,10 @@ menu:
       name: mastodon
       url: https://h4.io/@wazaby
       weight: 30
+    - identifier: CC-BY-NC
+      name: CC-BY-NC
+      url: "https://codeberg.org/wazaby/blog/src/branch/main/LISENCE.md"
+      weight: 40
 
 params:
   ShowShareButtons: false
@@ -76,10 +78,15 @@ params:
       url: "https://alexandre-martin.fr/"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/alexandre-martin-58429bb5/"
-    - name: "github"
-      url: "https://github.com/mrwazaby"
+    - name: "codeberg"
+      url: "https://codeberg.org/wazaby"
 
   homeInfoParams:
     Title: "C'est le blog"
     Content: >
       👋 Bienvenue sur mon blog. Le lieu des digressions plus longues que sur Mastodon.
+
+  editPost:
+    URL: "https://codeberg.org/wazaby/blog/src/branch/main/content"
+    Text: "code source" # edit text
+    appendFilePath: true # to append file path to Edit link

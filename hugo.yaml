@@ -65,7 +65,7 @@ menu:
       weight: 30
     - identifier: CC-BY-NC
       name: CC-BY-NC
-      url: "https://codeberg.org/wazaby/blog/src/branch/main/LISENCE.md"
+      url: "https://codeberg.org/wazaby/blog/src/branch/main/LICENSE"
       weight: 40
 
 params:

@@ -16,16 +16,13 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Wazablog
   description: "Wazaby's blog"
-  keywords: [Blog, Portfolio, PaperMod, wazaby, wazablog, Alexandre Martin]
+  keywords: [Blog, wazaby, wazablog, Alexandre Martin]
   author: Alexandre Martin
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -49,26 +46,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-menu:
-  main:
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: website
-      name: alexandre-martin.fr
-      url: https://alexandre-martin.fr
-      weight: 30
-    - identifier: masotodon
-      name: mastodon
-      url: https://h4.io/@wazaby
-      weight: 30
-    - identifier: CC-BY-NC
-      name: CC-BY-NC
-      url: "https://codeberg.org/wazaby/blog/src/branch/main/LICENSE"
-      weight: 40
-
-params:
   ShowShareButtons: false
 
   socialIcons:
@@ -90,3 +67,22 @@ params:
     URL: "https://codeberg.org/wazaby/blog/src/branch/main/content"
     Text: "code source" # edit text
     appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: website
+      name: alexandre-martin.fr
+      url: https://alexandre-martin.fr
+      weight: 30
+    - identifier: masotodon
+      name: mastodon
+      url: https://h4.io/@wazaby
+      weight: 30
+    - identifier: CC-BY-NC
+      name: CC-BY-NC
+      url: "https://codeberg.org/wazaby/blog/src/branch/main/LICENSE"
+      weight: 40

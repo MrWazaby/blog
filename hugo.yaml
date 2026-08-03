@@ -55,8 +55,8 @@ params:
       url: "https://alexandre-martin.fr/"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/alexandre-martin-58429bb5/"
-    - name: "codeberg"
-      url: "https://codeberg.org/wazaby"
+    - name: "github"
+      url: "https://github.com/mrwazaby"
 
   homeInfoParams:
     Title: "C'est le blog"
@@ -64,8 +64,8 @@ params:
       👋 Bienvenue sur mon blog. Le lieu des digressions plus longues que sur Mastodon.
 
   editPost:
-    URL: "https://codeberg.org/wazaby/blog/src/branch/main/content"
-    Text: "code source" # edit text
+    URL: "https://github.com/MrWazaby/blog/tree/main/content/"
+    Text: "source" # edit text
     appendFilePath: true # to append file path to Edit link
 
 menu:
